@@ -100,7 +100,6 @@ const styles = StyleSheet.create({
     color: '#606060',
     fontWeight: 'bold',
     marginTop: -20
-
   },
   searchBar: {
     fontSize: 16,
