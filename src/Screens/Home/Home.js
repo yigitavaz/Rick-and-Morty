@@ -62,7 +62,7 @@ const styles = StyleSheet.create({
         color: 'white'
     },
     contentFavorites: {
-        justifyContent: 'flex-start',
+        justifyContent: 'flex-start'
     },
 });
 
