@@ -60,7 +60,7 @@ const Episodes = ({ navigation }) => {
   );
 
   return (
-    <View style={{ flex: 1, backgroundColor:'white' }}>
+    <View style={{ flex: 1, backgroundColor: 'white' }}>
       <SearchBar
         searchQuery={searchQuery}
         setSearchQuery={setSearchQuery}
@@ -110,7 +110,6 @@ const styles = StyleSheet.create({
     marginHorizontal: 10,
     borderRadius: 4,
   },
-
 });
 
 export default Episodes;
