@@ -1,1 +1,1 @@
-Rick and Morty bölümlere ait karakterler ve o karakterlerin özelliklerini listeleyen bir mobil uygulama.
+Rick and Morty'nin bölümlerine ait karakterler ve o karakterlerin özelliklerini listeleyen bir mobil uygulama.
