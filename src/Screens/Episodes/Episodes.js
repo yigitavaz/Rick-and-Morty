@@ -7,7 +7,7 @@ const Episodes = ({ navigation }) => {
   const [episodes, setEpisodes] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
-  const itemsPerPage = 15; // veya her sayfa için kaç öğe göstermek istediğinize göre bir değer
+  const itemsPerPage = 15; // her sayfa için kaç öğe göstermek istediğinize göre bir değer
   const totalPages = Math.ceil(episodes.length / itemsPerPage);
 
   const onPageChange = (pageNumber) => {
